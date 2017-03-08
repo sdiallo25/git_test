@@ -1,0 +1,1 @@
+This is Seydou's first git project
